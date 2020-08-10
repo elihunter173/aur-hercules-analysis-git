@@ -12,7 +12,7 @@ depends=(
   'python-lifelines' 'python-tqdm'
 )
 makedepends=('go' 'protobuf' 'make' 'git' 'python-setuptools')
-pkgdesc='Gaining advanced insights from Git repository history.'
+pkgdesc='Gaining advanced insights from Git repository history. (use hercules-labours-git)'
 arch=('any')
 license=('Apache')
 source=('git+https://github.com/src-d/hercules.git')

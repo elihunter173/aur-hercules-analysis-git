@@ -5,7 +5,7 @@
 
 pkgname=hercules-analysis-git
 pkgver=10.7.2.r4.g13a2081
-pkgrel=1
+pkgrel=2
 depends=(
   'python-matplotlib' 'python-scipy' 'python-pandas' 'python-yaml' 'python-protobuf'
   'python-munch' 'python-hdbscan' 'python-seriate' 'python-fastdtw' 'python-dateutil'

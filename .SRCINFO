@@ -1,7 +1,7 @@
 pkgbase = hercules-analysis-git
 	pkgdesc = Gaining advanced insights from Git repository history. (use hercules-labours-git)
 	pkgver = 10.7.2.r4.g13a2081
-	pkgrel = 1
+	pkgrel = 2
 	url = https://github.com/src-d/hercules
 	arch = any
 	license = Apache
